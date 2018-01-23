@@ -6,7 +6,7 @@ import com.calculator.exception.ParseException;
 import org.junit.Test;
 
 
-public class ExpressionTester {
+public class ExpressionTest {
 
     @Test
     public void positiveTestCases() throws Exception{
