@@ -37,7 +37,7 @@
 
     <properties>
         <log4jVersion>2.13.2</log4jVersion>
-        <jUnitVersion>4.12</jUnitVersion>
+        <jUnitVersion>4.13.1</jUnitVersion>
     </properties>
 
     <dependencies>
